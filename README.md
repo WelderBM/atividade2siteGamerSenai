@@ -1,13 +1,15 @@
 <h1 align="center">Site Gamer Senai</h1>
 
-<img width="700" height="400" align="center" src="/assets/printScreenSiteGamer.png" alt="Página principal do Site Gamer Senai"/>
+<div align="center">
+  <img width="480" height="557" src="./printScreenSiteGamer.png" alt="Página principal do Site Gamer Senai"/>
+</div>
 
 <h2 align="center"><a href="https://senaigameactivity.netlify.app/" >Ver Site</a></h2>
 
 ## Sumário
 
 - <a href="#funcionalidades-do-projeto">Funcionalidades do Projeto</a>
-- <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a>
+- <a href="#tecnologias-ultilizadas">Tecnologias Utilizadas</a>
 - <a href="#pessoas-autoras">Autor</a>
 
 <h2 id="funcionalidades-do-projeto">Funcionalidades</h2>
