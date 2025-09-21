@@ -1,6 +1,6 @@
 <h1 align="center">Site Gamer Senai</h1>
 
-<img width="700" height="400" align="center" src="printScreenSiteGamer.png" alt="Página principal do Site Gamer Senai"/>
+<img width="700" height="400" align="center" src="/assets/printScreenSiteGamer.png" alt="Página principal do Site Gamer Senai"/>
 
 <h2 align="center"><a href="https://senaigameactivity.netlify.app/" >Ver Site</a></h2>
 
